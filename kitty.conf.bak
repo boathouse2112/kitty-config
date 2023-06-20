@@ -1,0 +1,13 @@
+font_family Menlo
+font_size 16.0
+hide_window_decorations no
+
+macos_titlebar_color background
+macos_thicken_font 0.75
+
+active_border_color none
+
+cursor_shape block
+shell_integration  no-cursor
+
+map kitty_mod+t launch --cwd=current
